@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebAppOnion.Domain.Interfaces\WebAppOnion.Domain.Services.Interfaces.csproj" />
+    <ProjectReference Include="..\WebAppOnion.Domain.Services\WebAppOnion.Domain.Services.csproj" />
+    <ProjectReference Include="..\WebAppOnion.Domain\WebAppOnion.Domain.csproj" />
+    <ProjectReference Include="..\WebAppOnion.Infastructure.Interfaces\WebAppOnion.Infastructure.Interfaces.csproj" />
+    <ProjectReference Include="..\WebAppOnion.Infastructure\WebAppOnion.Infastructure.csproj" />
+  </ItemGroup>
+
+</Project>
