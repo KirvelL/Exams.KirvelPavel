@@ -1,0 +1,3 @@
+C:\Work\WebAppOnion\WebAppOnion.Domain.Interfaces\obj\Debug\netstandard2.0\WebAppOnion.Domain.Services.Interfaces.csprojAssemblyReference.cache
+C:\Work\WebAppOnion\WebAppOnion.Domain.Interfaces\obj\Debug\netstandard2.0\WebAppOnion.Domain.Services.Interfaces.AssemblyInfoInputs.cache
+C:\Work\WebAppOnion\WebAppOnion.Domain.Interfaces\obj\Debug\netstandard2.0\WebAppOnion.Domain.Services.Interfaces.AssemblyInfo.cs

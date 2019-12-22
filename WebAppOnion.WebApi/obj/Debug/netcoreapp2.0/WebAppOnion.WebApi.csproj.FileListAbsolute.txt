@@ -1,0 +1,13 @@
+C:\Work\WebAppOnion\WebAppOnion.WebApi\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Work\WebAppOnion\WebAppOnion.WebApi\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Work\WebAppOnion\WebAppOnion.WebApi\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Work\WebAppOnion\WebAppOnion.WebApi\bin\Debug\netcoreapp2.0\WebAppOnion.WebApi.deps.json
+C:\Work\WebAppOnion\WebAppOnion.WebApi\bin\Debug\netcoreapp2.0\WebAppOnion.WebApi.runtimeconfig.json
+C:\Work\WebAppOnion\WebAppOnion.WebApi\bin\Debug\netcoreapp2.0\WebAppOnion.WebApi.runtimeconfig.dev.json
+C:\Work\WebAppOnion\WebAppOnion.WebApi\bin\Debug\netcoreapp2.0\WebAppOnion.WebApi.dll
+C:\Work\WebAppOnion\WebAppOnion.WebApi\bin\Debug\netcoreapp2.0\WebAppOnion.WebApi.pdb
+C:\Work\WebAppOnion\WebAppOnion.WebApi\obj\Debug\netcoreapp2.0\WebAppOnion.WebApi.csprojAssemblyReference.cache
+C:\Work\WebAppOnion\WebAppOnion.WebApi\obj\Debug\netcoreapp2.0\WebAppOnion.WebApi.AssemblyInfoInputs.cache
+C:\Work\WebAppOnion\WebAppOnion.WebApi\obj\Debug\netcoreapp2.0\WebAppOnion.WebApi.AssemblyInfo.cs
+C:\Work\WebAppOnion\WebAppOnion.WebApi\obj\Debug\netcoreapp2.0\WebAppOnion.WebApi.dll
+C:\Work\WebAppOnion\WebAppOnion.WebApi\obj\Debug\netcoreapp2.0\WebAppOnion.WebApi.pdb

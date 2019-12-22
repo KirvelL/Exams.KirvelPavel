@@ -1,0 +1,8 @@
+C:\Work\WebAppOnion\WebAppOnion.Domain\obj\Debug\netstandard2.0\WebAppOnion.Domain.csprojAssemblyReference.cache
+C:\Work\WebAppOnion\WebAppOnion.Domain\obj\Debug\netstandard2.0\WebAppOnion.Domain.AssemblyInfoInputs.cache
+C:\Work\WebAppOnion\WebAppOnion.Domain\obj\Debug\netstandard2.0\WebAppOnion.Domain.AssemblyInfo.cs
+C:\Work\WebAppOnion\WebAppOnion.Domain\bin\Debug\netstandard2.0\WebAppOnion.Domain.deps.json
+C:\Work\WebAppOnion\WebAppOnion.Domain\bin\Debug\netstandard2.0\WebAppOnion.Domain.dll
+C:\Work\WebAppOnion\WebAppOnion.Domain\bin\Debug\netstandard2.0\WebAppOnion.Domain.pdb
+C:\Work\WebAppOnion\WebAppOnion.Domain\obj\Debug\netstandard2.0\WebAppOnion.Domain.dll
+C:\Work\WebAppOnion\WebAppOnion.Domain\obj\Debug\netstandard2.0\WebAppOnion.Domain.pdb
